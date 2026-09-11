@@ -44,4 +44,4 @@ La solution permet de traduire la voix (ou le texte) d’un interlocuteur entend
 ## Instructions d’installation
 1. Cloner le dépôt :
    ```bash
-   git clone <https://github.com/Rayen-Ayat/EspritMaratech2026-GoRIN>
+   git clone <https://github.com/telliliislem/EspritMaratech2026-GoRIN>
